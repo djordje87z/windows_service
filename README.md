@@ -1,3 +1,3 @@
 # windows_service
 
-Run app as Admin,
+Run app as Admin.
